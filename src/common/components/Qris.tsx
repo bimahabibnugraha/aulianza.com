@@ -5,15 +5,15 @@ import Image from "./Image";
 const Qris = ({ onBack }: { onBack: () => void }) => {
   const downloadQrisImage = () => {
     const link = document.createElement("a");
-    link.href = "/images/qris-aulianza.webp";
-    link.download = "qris-aulianza.webp";
+    link.href = "/images/qris-bima.jpg";
+    link.download = "qris-bima.jpg";
     link.click();
   };
 
   return (
     <>
       <Image
-        src="/images/qris-aulianza.webp"
+        src="/images/qris-bima.jpg"
         alt="QRIS"
         width={500}
         height={800}
