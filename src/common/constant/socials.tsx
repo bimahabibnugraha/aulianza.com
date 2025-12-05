@@ -1,5 +1,5 @@
 import {
-  BsGithub as GithubIcon,
+  BsWhatsapp as WhatsappIcon,
   BsInstagram as InstagramIcon,
   BsLinkedin as LinkedinIcon,
   BsRssFill as BlogIcon,
@@ -12,17 +12,8 @@ const iconSize = 20;
 
 export const SOCIAL_MEDIA: SocialItemProps[] = [
   {
-    title: "Github",
-    href: "https://github.com/aulianza",
-    icon: <GithubIcon size={iconSize} />,
-    isShow: true,
-    isExternal: true,
-    eventName: "Social: Github",
-    className: "text-slate-800 hover:bg-slate-800",
-  },
-  {
     title: "Linkedin",
-    href: "https://www.linkedin.com/in/aulianza/",
+    href: "https://www.linkedin.com/in/bimahabibnugraha/",
     icon: <LinkedinIcon size={iconSize} />,
     isShow: true,
     isExternal: true,
@@ -31,7 +22,7 @@ export const SOCIAL_MEDIA: SocialItemProps[] = [
   },
   {
     title: "Instagram",
-    href: "https://instagram.com/aulianza",
+    href: "https://instagram.com/bimahabib98",
     icon: <InstagramIcon size={iconSize} />,
     isShow: true,
     isExternal: true,
@@ -39,17 +30,17 @@ export const SOCIAL_MEDIA: SocialItemProps[] = [
     className: "text-pink-600 hover:bg-pink-600",
   },
   {
-    title: "X",
-    href: "https://x.com/aulianzaa",
-    icon: <TwitterXIcon size={19} />,
+    title: "WhatsApp",
+    href: "https://wa.me/6289530324308",
+    icon: <WhatsappIcon size={19} />,
     isShow: true,
     isExternal: true,
-    eventName: "Social: X",
+    eventName: "Social: WhatsApp",
     className: "hover:bg-black",
   },
   {
     title: "Blog",
-    href: "https://aulianza.id/blog",
+    href: "https://bimahabibnugraha.my.id",
     icon: <BlogIcon size={iconSize} />,
     isShow: true,
     isExternal: true,
