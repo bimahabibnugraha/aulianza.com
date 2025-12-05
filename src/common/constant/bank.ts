@@ -15,7 +15,7 @@ export const BANK_ACCOUNTS: BankAccountsProps[] = [
     number: "089530324308",
     holder: "Bima Habib Nugraha",
     bank: "DANA",
-    type: "mastercard",
+    type: "ewallet",
     logo: "/images/payment/dana.png",
     color: "#005EB8",
     className:
