@@ -36,7 +36,7 @@ export const SOCIAL_MEDIA: SocialItemProps[] = [
     isShow: true,
     isExternal: true,
     eventName: "Social: WhatsApp",
-    className: "hover:bg-black",
+    className: "text-[#25d366] hover:bg-[#25d366]",
   },
   {
     title: "Blog",
