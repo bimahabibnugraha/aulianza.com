@@ -33,8 +33,8 @@ const Contact = () => {
         <div className="space-y-3">
           <div className="font-medium text-lg md:text-xl">Drop me an Email</div>
           <div
-            className="hover:underline text-neutral-800 text-lg md:text-lg cursor-pointer"
-            onClick={() => handleEmailClick("aulianza.dev@gmail.com")}
+            className="hover:underline text-neutral-800 text-lg md:text-sm cursor-pointer"
+            onClick={() => handleEmailClick("bimahabibnugraha@gmail.com")}
             data-umami-event="Click : Email"
           >
             {copiedEmail ? "Copied!" : "bimahabibnugraha@gmail.com"}
