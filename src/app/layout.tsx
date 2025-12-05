@@ -10,7 +10,7 @@ import Footer from "@/common/components/Footer";
 const sora = Sora({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Ryan Aulia - Software Engineer",
+  title: "Bima Habib Nugraha - Profile",
   description: "My Personal Landing Page",
   icons: "/images/aulianza.webp",
   // openGraph: {
