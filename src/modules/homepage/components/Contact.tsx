@@ -37,7 +37,7 @@ const Contact = () => {
             onClick={() => handleEmailClick("aulianza.dev@gmail.com")}
             data-umami-event="Click : Email"
           >
-            {copiedEmail ? "Copied!" : "aulianza.dev@gmail.com"}
+            {copiedEmail ? "Copied!" : "bimahabibnugraha@gmail.com"}
           </div>
         </div>
         <p className="text-sm md:text-base text-neutral-700 leading-relaxed">
