@@ -6,7 +6,7 @@ export const BANK_ACCOUNTS: BankAccountsProps[] = [
     holder: "Bima Habib Nugraha",
     bank: "SeaBank",
     type: "mastercard",
-    logo: "/images/payment/bni.png",
+    logo: "/images/payment/seabank.png",
     color: "#e55300",
     className:
       "bg-[#e55300]/5 border-[#e55300] hover:bg-[#e55300] hover:text-white",
@@ -29,16 +29,16 @@ export const BANK_ACCOUNTS: BankAccountsProps[] = [
     logo: "/images/payment/gopay.png",
     color: "#00b7ffff",
     className:
-      "bg-[#0066ae]/5 border-[#0066ae] hover:bg-[#0066ae] hover:text-white",
+      "bg-[#00b7ffff]/5 border-[#00b7ffff] hover:bg-[#00b7ffff] hover:text-white",
   },
   {
     number: "089530324308",
     holder: "Bima Habib Nugraha",
     bank: "ShopeePay",
     type: "visa",
-    logo: "/images/payment/permata.png",
+    logo: "/images/payment/shopeepay.png",
     color: "#ff2600ff",
     className:
-      "bg-[#6e9123]/5 border-[#6e9123] hover:bg-[#6e9123] hover:text-white",
+      "bg-[#ff2600ff]/5 border-[#ff2600ff] hover:bg-[#ff2600ff] hover:text-white",
   },
 ];
