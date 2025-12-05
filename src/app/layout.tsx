@@ -12,7 +12,7 @@ const sora = Sora({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "Bima Habib Nugraha - Profile",
   description: "My Personal Landing Page",
-  icons: "/images/aulianza.webp",
+  icons: "/images/bimahn.webp",
   // openGraph: {
   //   images: "/images/aulianza.webp",
   //   url: "https://aulianza.com",
