@@ -38,7 +38,7 @@ const Hero = () => {
           data-aos-duration="1000"
         >
           <div className="flex flex-col gap-1 items-center text-center">
-            <h1 className="text-2xl font-medium">Bima HN</h1>
+            <h1 className="text-2xl font-medium">Bima Habib Nugraha</h1>
             <div className="flex gap-2 text-[15px] text-neutral-500">
               <span>Lampung, Indonesia</span>
               <span className="text-neutral-300">•</span>
