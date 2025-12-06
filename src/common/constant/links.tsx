@@ -12,7 +12,7 @@ export const LINKS: LinkProps[] = [
   {
     label: "Personal Website & Portfolio",
     icon: <WebsiteIcon size={21} className="text-neutral-600" />,
-    href: "https://bimahabibnugraha.my.id",
+    href: "https://bima.qzz.io",
     className: "bg-emerald-700",
     target: "_blank",
   },
@@ -26,7 +26,7 @@ export const LINKS: LinkProps[] = [
   {
     label: "1 on 1 Chit Chat Session",
     icon: <ChitChatIcon size={21} className="text-neutral-600" />,
-    href: "https://cal.com/antifragile/schedule",
+    href: "https://cal.com/bimahn/schedule",
     className: "bg-rose-600",
     target: "_blank",
   },
