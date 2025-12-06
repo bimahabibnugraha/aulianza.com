@@ -40,7 +40,7 @@ export const SOCIAL_MEDIA: SocialItemProps[] = [
   },
   {
     title: "Blog",
-    href: "https://bimahabibnugraha.my.id",
+    href: "https://bima.qzz.io",
     icon: <BlogIcon size={iconSize} />,
     isShow: true,
     isExternal: true,
